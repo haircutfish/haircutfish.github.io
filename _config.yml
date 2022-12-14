@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   TryHackMe Write-Up | PowerShell | CyberSecurity
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'haircutfish.com'
 
 github:
   username: haircutfish             # change to your github username
