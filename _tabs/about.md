@@ -9,5 +9,7 @@ I got into IT because of an injury. I knew after I injured my knee I couldn't go
 
 ## Socials
 [Twitter](https://twitter.com/Haircutfish85)
+
 [LinkedIn](https://www.linkedin.com/in/danrearden/)
+
 [Mastodon](https://infosec.exchange/@haircutfish)
