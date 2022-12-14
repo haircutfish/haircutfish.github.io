@@ -19,12 +19,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Haircutfish                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Cyber Security Manager/IT Tech | Google IT Support Professional Certificate | Top 1% on TryHackMe | Aspiring SOC Analys   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  TryHackMe Write-Up | PowerShell | CyberSecurity
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dan Rearden
-  #email: example@domain.com             # change to your email address
+  email: danrearden@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Haircutfish85      # change to your twitter homepage
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: light  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/images/logo.jpg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
