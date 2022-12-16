@@ -1,6 +1,6 @@
 ﻿---
 layout: "post"
-titel: "TryHackMe OpenCTI — Task 1 thru Task 5"
+title: "TryHackMe OpenCTI — Task 1 thru Task 5"
 ---
 
 

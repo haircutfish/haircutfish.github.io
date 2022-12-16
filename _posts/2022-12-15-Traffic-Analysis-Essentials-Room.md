@@ -1,6 +1,6 @@
 ---
 layout: "post"
-titel: "TryHackMe Traffic Analysis Essentials Room"
+title: "TryHackMe Traffic Analysis Essentials Room"
 ---
 
 # TryHackMe Traffic Analysis Essentials Room

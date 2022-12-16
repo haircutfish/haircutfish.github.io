@@ -1,6 +1,6 @@
 ---
 layout: "post"
-titel: "TryHackMe Snort — Task 1 Introduction, Task 2 Interactive Material and VM, & Task 3 Introduction to IDS/IPS"
+title: "TryHackMe Snort — Task 1 Introduction, Task 2 Interactive Material and VM, & Task 3 Introduction to IDS/IPS"
 ---
 
 # TryHackMe Snort — Task 1 Introduction, Task 2 Interactive Material and VM, & Task 3 Introduction to IDS/IPS
