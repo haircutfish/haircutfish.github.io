@@ -627,4 +627,4 @@ When it is done running, the answer will be at the bottom in the Total row. Once
 
 **Answer: 41**
 
-You have finished these tasks, and can now move onto Task 7 Thru Task 11.
+You have finished these tasks, and can now move onto Task 7 Operation Mode 3: IDS/IPS & Task 8 Operation Mode 4: PCAP Investigation.
