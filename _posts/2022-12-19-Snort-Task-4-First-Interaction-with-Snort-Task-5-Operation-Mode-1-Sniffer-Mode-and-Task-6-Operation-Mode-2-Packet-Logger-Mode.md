@@ -1,8 +1,6 @@
 ---
 layout: "post"
 title: "TryHackMe Snort — Task 4 First Interaction with Snort, Task 5 Operation Mode 1: Sniffer Mode, & Task 6 Operation Mode 2: Packet Logger Mode."
-categories: Snort
-tags: tryhackme,snort
 ---
 
 _If you haven’t done task 1, 2, & 3 yet, here is the link to my write-up it:_ [_Task 1 Introduction, Task 2 Interactive Material and VM, & Task 3 Introduction to IDS/IPS._](https://haircutfish.com/posts/TryHackMe-Snort-Task-1-Introduction-Task-2-Interactive-Material-and-VM-&-Task-3-Introduction-to-IDS-IPS/)
