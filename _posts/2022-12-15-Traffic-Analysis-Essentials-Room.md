@@ -1,8 +1,8 @@
 ---
 layout: "post"
 title: "TryHackMe Traffic Analysis Essentials Room"
-categories: Traffic Analysis Essentials
-tags: TryHackMe, SnortTraffic Analysis, SOC Level One Path
+categories: Traffic-Analysis-Essentials
+tags: TryHackMe, Traffic Analysis, SOC Level One Path
 ---
 
 
