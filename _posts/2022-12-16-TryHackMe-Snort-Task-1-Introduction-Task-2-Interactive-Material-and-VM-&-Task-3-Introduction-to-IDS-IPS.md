@@ -1,9 +1,10 @@
 ---
 layout: "post"
 title: "TryHackMe Snort — Task 1 Introduction, Task 2 Interactive Material and VM, & Task 3 Introduction to IDS/IPS"
+categories: Snort
+tags: TryHackMe, Snort, SOC Level One Path
 ---
 
-# TryHackMe Snort — Task 1 Introduction, Task 2 Interactive Material and VM, & Task 3 Introduction to IDS/IPS
 
 Learn how to use Snort to detect real-time threats, analyse recorded traffic files and identify anomalies.
 

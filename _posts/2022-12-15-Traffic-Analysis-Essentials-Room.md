@@ -1,9 +1,11 @@
 ---
 layout: "post"
 title: "TryHackMe Traffic Analysis Essentials Room"
+categories: Traffic Analysis Essentials
+tags: TryHackMe, SnortTraffic Analysis, SOC Level One Path
 ---
 
-# TryHackMe Traffic Analysis Essentials Room
+
 
 Learn Network Security and Traffic Analysis foundations and take a step into probing network anomalies.
 
