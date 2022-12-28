@@ -1,4 +1,4 @@
-﻿---
+---
 layout: "post"
 title: "TryHackMe OpenCTI - Task 1 thru Task 5"
 categories: OpenCTI
