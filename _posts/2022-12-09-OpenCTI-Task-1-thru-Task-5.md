@@ -1,9 +1,10 @@
-﻿---
+---
 layout: "post"
-title: "TryHackMe OpenCTI — Task 1 thru Task 5"
+title: "TryHackMe OpenCTI - Task 1 thru Task 5"
 categories: OpenCTI
 tags: TryHackMe, OpenCTI, SOC Level One Path
 ---
+
 
 
 Provide an understanding of the OpenCTI Project
