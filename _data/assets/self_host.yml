@@ -39,8 +39,8 @@ magnific-popup:
   js: /assets/lib/magnific-popup-1.1.0/jquery.magnific-popup.min.js
 
 lozad:
-  js: https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js
-  
+  js: /assets/lib/lozad-1.16.0/lozad.min.js
+
 clipboard:
   js: /assets/lib/clipboard-2.0.9/clipboard.min.js
 
