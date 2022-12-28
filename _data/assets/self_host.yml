@@ -41,9 +41,6 @@ magnific-popup:
 lozad:
   js: https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js
   
-lazysizes:
-  js: /assets/lib/lazysizes-5.3.2/lazysizes.min.js
-
 clipboard:
   js: /assets/lib/clipboard-2.0.9/clipboard.min.js
 
