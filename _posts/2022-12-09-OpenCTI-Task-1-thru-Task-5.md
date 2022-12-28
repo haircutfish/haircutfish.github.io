@@ -6,6 +6,7 @@ tags: TryHackMe, OpenCTI, SOC Level One Path
 ---
 
 
+
 Provide an understanding of the OpenCTI Project
 
 # Task 1 Room Overview
