@@ -8,7 +8,7 @@ tags: TryHackMe, Snort, SOC Level One Path
 
 
 
-_If you haven’t done task 1, 2, & 3 yet, here is the link to my write-up of it: [Task 1 Introduction, Task 2 Writing IDS Rules (HTTP), & Task 3 Writing IDS Rules (FTP).](https://haircutfish.com/posts/Snort-Challenge-Basics-Task1-Intro-Task2-Writing-IDS-Rules-Task3-Writing-IDS-Rules/)_
+_If you haven’t done task 1, 2, & 3 yet, here is the link to my write-up of it: [Task 1 Introduction, Task 2 Writing IDS Rules (HTTP), & Task 3 Writing IDS Rules (FTP).](https://haircutfish.com/posts/Snort-Challenge-Basics-Task1-Intro-Task2-Writing-IDS-Rules-HTTP-Task3-Writing-IDS-Rules-FTP/)_
 
 ## Opening the VM
 

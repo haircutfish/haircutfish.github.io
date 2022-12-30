@@ -171,4 +171,4 @@ The number will change, and will be the answer you are looking for. Type the ans
 
 **Answer: 9.3**
 
-### You have finished these tasks, and can now move onto Task 8 Using External Rules (Log4j) & Task 9 Conclusion.
+**You have finished these tasks, and can now move onto Task 8 Using External Rules (Log4j) & Task 9 Conclusion.**
