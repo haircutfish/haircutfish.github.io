@@ -254,4 +254,4 @@ Our file caught a total of 9 html files. Pretty cool.
 
 ![](https://miro.medium.com/max/630/1*6El9WvtqWAOXA90A-LEtww.png)
 
-### You have finished these tasks, and can now move onto [Task 7 Using External Rules (MS17–010).](https://haircutfish.com/posts/Snort-Challenge-Basics-Task7-Using-External-Rules-ms17-010/)
+ **You have finished these tasks, and can now move onto [Task 7 Using External Rules (MS17–010).](https://haircutfish.com/posts/Snort-Challenge-Basics-Task7-Using-External-Rules-ms17-010/)**
