@@ -244,4 +244,4 @@ Going back for the last time, look for Host:, the answer can be found right afte
 
 **Answer: tracker2.torrentbox.com**
 
-### You have finished these tasks, and can now move onto Task 6 Troubleshooting Rule Syntax Errors.
+**You have finished these tasks, and can now move onto [Task 6 Troubleshooting Rule Syntax Errors.](https://haircutfish.com/posts/Snort-Challenge-Basics-Tas6-Troubleshooting-Rule-Syntax-Errors/)**
