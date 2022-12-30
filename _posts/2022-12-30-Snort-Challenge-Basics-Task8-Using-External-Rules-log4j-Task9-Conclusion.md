@@ -5,9 +5,9 @@ categories: Snort-Challenge-TheBasics
 tags: TryHackMe, Snort, SOC Level One Path
 ---
 
-# 
 
-[_If you haven’t done task 7 yet, here is the link to my write-up of it: Task 7 Using External Rules (MS17–010).](https://haircutfish.com/posts/Snort-Challenge-Basics-Task7-Using-External-Rules-ms17-010/)_
+
+_[If you haven’t done task 7 yet, here is the link to my write-up of it: Task 7 Using External Rules (MS17–010).](https://haircutfish.com/posts/Snort-Challenge-Basics-Task7-Using-External-Rules-ms17-010/)_
 
 ## Opening the VM
 
