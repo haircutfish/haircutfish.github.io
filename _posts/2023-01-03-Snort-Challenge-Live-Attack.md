@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Snort Challenge — Live Attacks Room"
+title: "TryHackMe Snort Challenge — Live Attacks Room"
 categories: Snort-Challenge-Live-Attack
 tags: TryHackMe, Snort, SOC Level One Path
 ---
