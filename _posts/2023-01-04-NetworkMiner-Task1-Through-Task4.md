@@ -430,4 +430,4 @@ A Clipboard window will pop-up, click inside the text box. Then use the keyboard
 
 **Not the Answer: Markdown didn't like the answer format so I won't be positng it here**
 
-You have finished these tasks, and can now move onto Task 5 Tool Overview 2 & Task 6 Version Differences.
+You have finished these tasks, and can now move onto [Task 5 Tool Overview 2 & Task 6 Version Differences.](https://haircutfish.com/posts/NetworkMiner-Task5-Tool-Overview-2-and-Task6-Version-Differences/)
