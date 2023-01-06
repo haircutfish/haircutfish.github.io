@@ -317,3 +317,5 @@ This time instead of looking at the Details panel on the right, we are going to 
 ![](https://miro.medium.com/max/788/1*9-2A_GDquoBzBVwxoaxnbg.png)
 
 **Answer: The MITRE Corporation**
+
+You have finished these tasks and can now move onto [Task 6 Investigative Scenario & Task 7 Room Conclusion.](https://haircutfish.com/posts/OpenCTI-Task6-Investigative-Scenario-and-Task7-Room-Conclusion/)
