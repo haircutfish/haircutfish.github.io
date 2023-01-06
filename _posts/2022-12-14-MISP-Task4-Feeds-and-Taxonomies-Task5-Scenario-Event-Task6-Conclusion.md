@@ -1,11 +1,11 @@
 ---
 layout: "post"
-title: "TryHackMe MISP — Task 1 Room Overview, Task 2 MISP Introduction: Features & Terminologies, & Task 3 Using the System"
+title: "TryHackMe MISP — Task 4 Feeds & Taxonomies, Task 5 Scenario Event, & Task 6 Conclusion"
 categories: MISP
 tags: TryHackMe, MISP, SOC Level One Path
 ---
 
-# TryHackMe MISP — Task 4 Feeds & Taxonomies, Task 5 Scenario Event, & Task 6 Conclusion
+
 
 _If you haven’t done task 1, 2, & 3 yet, here is the link to my write-up it:_ [_Task 1 Room Overview, Task 2 MISP Introduction: Features & Terminologies, & Task 3 Using the System._](https://haircutfish.com/posts/MISP-Task1-Room-Overview-Task2-MISP-Introduction-Features-and-Terminologies-Task3-Using-The-System/)
 
