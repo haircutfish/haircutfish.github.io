@@ -166,4 +166,4 @@ This answer can be found in the final section of the task. Reading through the f
 
 ![](https://miro.medium.com/max/630/1*fFOqbzvHo65uW1L9V7rWRA.png)
 
-You have finished these tasks and can move onto  [Task 4 Feeds & Taxonomies, Task 5 Scenario Event, & Task 6 Conclusion.](https://medium.com/@haircutfish/tryhackme-misp-task-4-feeds-taxonomies-task-5-scenario-event-task-6-conclusion-1eab9d364039)
+You have finished these tasks and can move onto  [Task 4 Feeds & Taxonomies, Task 5 Scenario Event, & Task 6 Conclusion.](https://haircutfish.com/posts/MISP-Task4-Feeds-and-Taxonomies-Task5-Scenario-Event-Task6-Conclusion/)
