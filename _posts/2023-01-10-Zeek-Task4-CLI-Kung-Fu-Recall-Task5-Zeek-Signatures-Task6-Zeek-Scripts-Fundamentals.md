@@ -1,11 +1,9 @@
 ---
 layout: "post"
-title: "TryHackMe Zeek — Task 1 Introduction, Task 2 Network Security Monitoring and Zeek, & Task 3 Zeek Logs"
+title: "TryHackMe Zeek — Task 4 CLI Kung-Fu Recall: Processing Zeek Logs, Task 5 Zeek Signatures, & Task 6 Zeek Scripts | Fundamentals"
 categories: Zeek
 tags: TryHackMe, Zeek, SOC Level One Path
 ---
-
-# TryHackMe Zeek — Task 4 CLI Kung-Fu Recall: Processing Zeek Logs, Task 5 Zeek Signatures, & Task 6 Zeek Scripts | Fundamentals
 
 _If you haven’t done task 1, 2, & 3 yet, here is the link to my write-up of it:_ [_Task 1 Introduction, Task 2 Network Security Monitoring and Zeek, & Task 3 Zeek Logs._](https://haircutfish.com/posts/Zeek-Task1-Introduction-Task2-Network-Security-Monitoring-and-Zeek-&Task3-Zeek-Logs/)
 
