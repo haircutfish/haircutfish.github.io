@@ -275,15 +275,15 @@ As you can see from my results below, the results are 1. So not sure. So for the
 
 **Answer: 2**
 
-## Task 8 Zeek Scripts | Frameworks
+## Task 8 Zeek Scripts - Frameworks
 
 ![](https://miro.medium.com/max/700/0*_axFfKVtpkaNsznr.png)
 
-**Scripts 203 | Load Frameworks**
+**Scripts 203 - Load Frameworks**
 
 Zeek has 15+ frameworks that help analysts to discover the different events of interest. In this task, we will cover the common frameworks and functions. You can find and read more on the prebuilt scripts and frameworks by visiting Zeek’s online book  [here](https://docs.zeek.org/en/master/frameworks/index.html).
 
-**File Framework | Hashes**
+**File Framework - Hashes**
 
 Not all framework functionalities are intended to be used in CLI mode. The majority of them are used in scripting. You can easily see the usage of frameworks in scripts by calling a specific framework as  `load @ $PATH/base/frameworks/framework-name`. Now, let's use a prebuilt function of the file framework and have MD5, SHA1 and SHA256 hashes of the detected files. We will call the "File Analysis" framework's "hash-all-files" script to accomplish this. Before loading the scripts, let's look at how it works.
 ```
@@ -315,7 +315,7 @@ cc28e40b46237ab6d5282199ef78c464 0d5c820002cf93384016bd4a2628dcc5101211f4 749e16
 ```
 Look at the above terminal outputs. Both of the scripts provided the same result. Here the preference is up to the user. Both of the usage formats are true. Prebuilt frameworks are commonly used in scriptings with the “@load” method. Specific scripts are used as practical scripts for particular use cases.
 
-**File Framework | Extract Files**
+**File Framework - Extract Files**
 
 The file framework can extract the files transferred. Let’s see this feature in action!
 ```
@@ -351,7 +351,7 @@ ubuntu@ubuntu$ grep -rin CZruIO2cqspVhLuAO9 * | column -t | nl | less -S
 ```
 The “grep” tool helps us investigate the particular value across all available logs. The above terminal output shows us that the connection id linked with .exe appears in conn.log, files.log, and http.log files. Given example demonstrates how to filter some fields and correlate the findings with the rest of the logs. We’ve listed the source and destination addresses, file and connection id numbers, MIME types, and file names. Up to now, provided outputs and findings show us that record number three is a .exe file, and other log files provide additional information.
 
-**Notice Framework | Intelligence**
+**Notice Framework - Intelligence**
 
 The intelligence framework can work with data feeds to process and correlate events and identify anomalies. The intelligence framework requires a feed to match and create alerts from the network traffic. Let’s demonstrate a single user-generated threat intel file and let Zeek use it as the primary intelligence source.
 
@@ -481,7 +481,7 @@ So all we need to do is cat the file and we should get our answer. So using the 
 
 ![](https://miro.medium.com/max/700/0*rOZEiBOUWH60NlC5.png)
 
-**Scripts 204 | Package Manager**
+**Scripts 204 - Package Manager**
 
 Zeek Package Manager helps users install third-party scripts and plugins to extend Zeek functionalities with ease. The package manager is installed with Zeek and available with the  `zkg`  command. Users can install, load, remove, update and create packages with the "zkg" tool. You can read more on and view available packages  [here](https://packages.zeek.org/)  and  [here](https://github.com/zeek/packages). Please note that you need root privileges to use the "zkg" tool.
 
@@ -491,7 +491,7 @@ Zeek Package Manager helps users install third-party scripts and plugins to exte
 
 There are multiple ways of using packages. The first approach is using them as frameworks and calling specific package path/directory per usage. The second and most common approach is calling packages from a script with the “@load” method. The third and final approach to using packages is calling their package names; note that this method works only for packages installed with the “zkg” install method.
 
-**Packages | Cleartext Submission of Password**
+**Packages - Cleartext Submission of Password**
 
 Let’s install a package first and then demonstrate the usage in different approaches.  
 **Note:** The package is installed in the given VM.
@@ -509,7 +509,9 @@ zeek/cybera/zeek-sniffpass (installed: master) - Sniffpass will alert on clearte
 The above output shows how to install and list the installed packages. Now we successfully installed a package. As the description mentions on the above terminal, this package creates alerts for cleartext passwords found in HTTP traffic. Let’s use this package in three different ways!
 
 ### Calling with script  
-`ubuntu@ubuntu$ zeek -Cr http.pcap sniff-demo.zeek`   
+```
+ubuntu@ubuntu$ zeek -Cr http.pcap sniff-demo.zeek
+```
   
 ### View script contents  
 ```
@@ -532,7 +534,7 @@ ubuntu@ubuntu$ cat notice.log | zeek-cut id.orig_h id.resp_h proto note msg
 ```
 The above output shows that the package found cleartext password submissions, provided notice, and grabbed the usernames. Remember, in  **TASK-5**  we created a signature to do the same action. Now we can do the same activity without using a signature file. This is a simple demonstration of the benefit and flexibility of the Zeek scripts.
 
-**Packages | Geolocation Data**
+**Packages - Geolocation Data**
 
 Let’s use another helpful package called “geoip-conn”. This package provides geolocation information for the IP addresses in the conn.log file. It depends on “GeoLite2-City.mmdb” database created by MaxMind. This package provides location information for only matched IP addresses from the internal database.
 ```
