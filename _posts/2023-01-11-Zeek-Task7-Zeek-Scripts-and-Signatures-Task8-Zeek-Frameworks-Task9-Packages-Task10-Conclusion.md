@@ -26,7 +26,7 @@ The screen should be split now, you just have to wait for the VM to load. When i
 
 ![](https://miro.medium.com/max/700/0*hfCke9WqICNpaGy4.png)
 
-**Scripts 101** **|** **Write Basic Scripts**
+**Scripts 101 - Write Basic Scripts**
 
 Scripts contain operators, types, attributes, declarations and statements, and directives. Let’s look at a simple example event called “zeek_init” and “zeek_done”. These events work once the Zeek process starts and stops. Note that these events don’t have parameters, and some events will require parameters.
 
@@ -97,7 +97,7 @@ Destination Host: resp: 192.168.120.22 # 53/udp <---
 ```
 The above output shows that we successfully extract specific information from the events. Remember that this script extracts the event of interest (in this example, a new connection), and we still have logs in the working directory. We can always modify and optimise the scripts at any time.
 
-### **Scripts 201 | Use Scripts and Signatures Together**
+### **Scripts 201 - Use Scripts and Signatures Together**
 
 Up to here, we covered the basics of Zeek scripts. Now it is time to use scripts collaboratively with other scripts and signatures to get one step closer to event correlation. Zeek scripts can refer to signatures and other Zeek scripts as well. This flexibility provides a massive advantage in event correlation.
 
@@ -131,7 +131,7 @@ Signature hit! --> #FTP-Admin Signature hit! --> #FTP-Admin
 ```
 The above output shows that we successfully combined the signature and script. Zeek processed the signature and logs then the script controlled the outputs and provided a terminal output for each rule hit.
 
-### **Scripts 202 | Load Local Scripts**
+### **Scripts 202 - Load Local Scripts**
 
 **Load all local scripts**
 
