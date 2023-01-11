@@ -6,7 +6,7 @@ tags: TryHackMe, Zeek, SOC Level One Path
 ---
 
 
-_If you haven’t done task 4, 5, & 6 yet, here is the link to my write-up of it:_ [_Task 4 CLI Kung-Fu Recall: Processing Zeek Logs, Task 5 Zeek Signatures, & Task 6 Zeek Scripts | Fundamentals._](https://haircutfish.com/posts/Zeek-Task4-CLI-Kung-Fu-Recall-Task5-Zeek-Signatures-Task6-Zeek-Scripts-Fundamentals/)
+_If you haven’t done task 4, 5, & 6 yet, here is the link to my write-up of it: [_Task 4 CLI Kung-Fu Recall: Processing Zeek Logs, Task 5 Zeek Signatures, & Task 6 Zeek Scripts | Fundamentals._](https://haircutfish.com/posts/Zeek-Task4-CLI-Kung-Fu-Recall-Task5-Zeek-Signatures-Task6-Zeek-Scripts-Fundamentals/)_
 
 ## Getting the VM Started
 
