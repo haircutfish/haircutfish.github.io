@@ -5,6 +5,7 @@ categories: Zeek-Exercises
 tags: TryHackMe, Zeek, SOC Level One Path
 ---
 
+
 _If you haven’t done task 1 & 2 yet, here is the link to my write-up of it:_ [_Task 1 Introduction & Task 2 Anomalous DNS._](https://haircutfish.com/posts/Zeek-Exercises-Task1-Introduction-Task2-Anomalous-DNS/)
 
 ## Getting the VM Started
