@@ -1,6 +1,5 @@
 ---
 layout: page
-icon: fas fa-file-image-o
 order: 5
 ---
 
