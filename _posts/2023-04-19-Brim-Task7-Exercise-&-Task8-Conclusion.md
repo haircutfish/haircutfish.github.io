@@ -5,7 +5,7 @@ categories: Brim
 tags: TryHackMe, Brim, SOC Level One Path
 ---
 
-_If you haven’t done task 6 yet, here is the link to my write-up of them:_ [_Task 6 Exercise: Threat Hunting with Brim | Malware C2 Detection_](https://haircutfish.com/posts/Brim-Task-6-Exercise-Threat-Hunting-With-Brim-Malware-C2-Detection/)
+_If you haven’t done task 6 yet, here is the link to my write-up of them:[Task 6 Exercise: Threat Hunting with Brim | Malware C2 Detection](https://haircutfish.com/posts/Brim-Task-6-Exercise-Threat-Hunting-With-Brim-Malware-C2-Detection/)
 
 ## Getting the VM Started
 
