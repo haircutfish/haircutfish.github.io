@@ -28,7 +28,7 @@ When it comes to the amount of resources available out there, you will find no s
 
 -   **TryHackMe**:TryHackMe helps you learn the different tools, tactics, and techniques used by cybersecurity professionals in a gamified way. I’ve completed many of these rooms and can attest to their fun and intricacy. You will be challenged but learn at the same time.
 
-    - [**TryHackMe | Cyber Security Training**](https://tryhackme.com/)
+    - [**TryHackMe**](https://tryhackme.com/)
 -   **PICOctf**: PICOctf is a great place to start where you can learn Cyber Security skills in a Jeopardy style way. This was one of the places I started my journey at when learning my Cyber Security skills.
     - [**picoCTF - CMU Cybersecurity Competition**](https://picoctf.org)
 
