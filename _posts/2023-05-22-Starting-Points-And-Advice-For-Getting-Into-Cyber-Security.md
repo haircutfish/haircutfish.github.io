@@ -23,6 +23,8 @@ When it comes to the amount of resources available out there, you will find no s
 -   **Job hunting**: if you’re looking for a job or in need of one. Jason Blanchard has this amazing series to help get you foot in the door, sometimes just getting you foot in the door is the hardest part. Once you do it’s up to you.  I credit Jason and his techniques, because they helped me land the job I currently have. He teaches you that you’re job Hunting, not finding a job, you are actively hunting down that perfect role for you.
     - [Jason Blanchard's Youtube Job Hunting Playlist](https://youtube.com/playlist?list=PLqz80p7f6dFumNG0wU4Ql41PvhzamHO3_)
 
+    -  <a href="https://youtube.com/playlist?list=PLqz80p7f6dFumNG0wU4Ql41PvhzamHO3_" target="_blank">Jason Blanchard's Youtube Job Hunting Playlist</a>
+
 -   **Antispyhon Pay-What-You-Can Training**: These trainings are phenomenal, with the amount of knowledge you can get from them. I’ve taken the three by John Strand, [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/), [Getting Started in Security with BHIS and MITRE ATT&CK](https://www.antisyphontraining.com/getting-started-in-security-with-bhis-and-mitre-attck-w-john-strand/), and [Active Defense & Cyber Deception](https://www.antisyphontraining.com/active-defense-cyber-deception-w-john-strand/). John teaches from the heart and gives great examples from real life experiences. You also have access to the discord where experts from the community called “Nerd Herders” can help you with any technical issues you may have during and after class.
     - [**Pay What You Can**](https://www.antisyphontraining.com/pay-what-you-can/)
 
