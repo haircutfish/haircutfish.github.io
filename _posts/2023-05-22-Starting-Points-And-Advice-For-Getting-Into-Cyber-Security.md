@@ -21,21 +21,19 @@ When it comes to following a roadmap, I kind of do and don’t have one that I f
 When it comes to the amount of resources available out there, you will find no shortage. The key though is to find the good ones that speak to you, so that you can learn and understand it better. Here is my list of resources I like to share with others, that I find super helpful:
 
 -   **Job hunting**: if you’re looking for a job or in need of one. Jason Blanchard has this amazing series to help get you foot in the door, sometimes just getting you foot in the door is the hardest part. Once you do it’s up to you.  I credit Jason and his techniques, because they helped me land the job I currently have. He teaches you that you’re job Hunting, not finding a job, you are actively hunting down that perfect role for you.
-    - [Jason Blanchard's Youtube Job Hunting Playlist](https://youtube.com/playlist?list=PLqz80p7f6dFumNG0wU4Ql41PvhzamHO3_)
-
-    -  <a href="https://youtube.com/playlist?list=PLqz80p7f6dFumNG0wU4Ql41PvhzamHO3_" target="_blank">Jason Blanchard's Youtube Job Hunting Playlist</a>
+     -  <a href="https://youtube.com/playlist?list=PLqz80p7f6dFumNG0wU4Ql41PvhzamHO3_" target="_blank">Jason Blanchard's Youtube Job Hunting Playlist</a>
 
 -   **Antispyhon Pay-What-You-Can Training**: These trainings are phenomenal, with the amount of knowledge you can get from them. I’ve taken the three by John Strand, [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/), [Getting Started in Security with BHIS and MITRE ATT&CK](https://www.antisyphontraining.com/getting-started-in-security-with-bhis-and-mitre-attck-w-john-strand/), and [Active Defense & Cyber Deception](https://www.antisyphontraining.com/active-defense-cyber-deception-w-john-strand/). John teaches from the heart and gives great examples from real life experiences. You also have access to the discord where experts from the community called “Nerd Herders” can help you with any technical issues you may have during and after class.
-    - [**Pay What You Can**](https://www.antisyphontraining.com/pay-what-you-can/)
+     -  <a href="https://www.antisyphontraining.com/pay-what-you-can/" target="_blank">Pay What You Can</a>
 
 -   **TryHackMe**:TryHackMe helps you learn the different tools, tactics, and techniques used by cybersecurity professionals in a gamified way. I’ve completed many of these rooms and can attest to their fun and intricacy. You will be challenged but learn at the same time.
-
-    - [**TryHackMe**](https://tryhackme.com/)
+     -  <a href="https://tryhackme.com/" target="_blank">TryHackMe</a>
+    
 -   **PICOctf**: PICOctf is a great place to start where you can learn Cyber Security skills in a Jeopardy style way. This was one of the places I started my journey at when learning my Cyber Security skills.
-    - [**picoCTF - CMU Cybersecurity Competition**](https://picoctf.org)
-
+     -  <a href="https://picoctf.org" target="_blank">picoCTF - CMU Cybersecurity Competition</a>
+    
 -   **OverTheWire Bandit**: Any Cyber Security person worth their salt has some skills with Linux. Using the OverTheWire Bandit, it teaches you not only navigation skills in linux. But you have to start by connecting to the server via SSH, once you have connected. You get information on how to connect to level 1 and so on. Each time you finish a Level it gives you a clue on how to connect to the next level.
-    - [**Bandit**](https://overthewire.org/wargames/bandit/)
+     -  <a href="https://overthewire.org/wargames/bandit/" target="_blank">Bandit</a>
 
 # Advice
 
@@ -44,22 +42,16 @@ Here is some advice given to me, that I love to pass on because I feel it has be
 -   **Start a blog, webpage, github, whatever**: This can be used to not only help you track where you started but where you are and have been as well. This can also help you with learning soft skills like report writing and documenting. Not to mention with it being publically available, potential employers can look at it to help better see that you know what you’re talking about.
 -   **Join a community**: Cybersecurity is vast and has a bunch of different areas of expertise. But one thing we have in common is that we are here to protect the end user. Inside these communities, you can help build your network and make friends that share the same passions as you. A couple of communities that I am a part of that are truly amazing and help to build up those amongst them are:
 -   **Simply Cyber**
-
-Youtube: [https://www.youtube.com/@SimplyCyber](https://www.youtube.com/@SimplyCyber)
-
-Discord: [https://discord.gg/simplycyber](https://discord.gg/simplycyber)
+    - <a href="https://www.youtube.com/@SimplyCyber" target="_blank">Youtube</a>     
+    - <a href="https://discord.gg/simplycyber" target="_blank">Discord</a>
 
 -   **Black Hills Information Security**
-
-Youtube: [https://www.youtube.com/@BlackHillsInformationSecurity](https://www.youtube.com/@BlackHillsInformationSecurity)
-
-Discord: [https://discord.gg/bhis](https://discord.gg/bhis)
+    - <a href="https://www.youtube.com/@BlackHillsInformationSecurity" target="_blank">Youtube</a> 
+    - <a href="https://discord.gg/bhis" target="_blank">Discord</a>
 
 -   **Trusted Sec**
-
-Youtube: [https://www.youtube.com/@TrustedSecTV](https://www.youtube.com/@TrustedSecTV)
-
-Discord: [https://discord.gg/trustedsec](https://discord.gg/trustedsec)
+    - <a href="https://www.youtube.com/@TrustedSecTV" target="_blank">Youtube</a> 
+     - <a href="https://discord.gg/trustedsec" target="_blank">Discord</a>
 
 There are so many more that you can join, just get out there and start talking with those in the industry.
 
