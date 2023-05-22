@@ -24,17 +24,16 @@ When it comes to the amount of resources available out there, you will find no s
     - [Jason Blanchard's Youtube Job Hunting Playlist](https://youtube.com/playlist?list=PLqz80p7f6dFumNG0wU4Ql41PvhzamHO3_)
 
 -   **Antispyhon Pay-What-You-Can Training**: These trainings are phenomenal, with the amount of knowledge you can get from them. I’ve taken the three by John Strand, [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/), [Getting Started in Security with BHIS and MITRE ATT&CK](https://www.antisyphontraining.com/getting-started-in-security-with-bhis-and-mitre-attck-w-john-strand/), and [Active Defense & Cyber Deception](https://www.antisyphontraining.com/active-defense-cyber-deception-w-john-strand/). John teaches from the heart and gives great examples from real life experiences. You also have access to the discord where experts from the community called “Nerd Herders” can help you with any technical issues you may have during and after class.
-    - [**Pay What You Can**](https://www.antisyphontraining.com/pay-what-you-can/ "https://www.antisyphontraining.com/pay-what-you-can/")[](https://www.antisyphontraining.com/pay-what-you-can/)
+    - [**Pay What You Can**](https://www.antisyphontraining.com/pay-what-you-can/)
 
 -   **TryHackMe**:TryHackMe helps you learn the different tools, tactics, and techniques used by cybersecurity professionals in a gamified way. I’ve completed many of these rooms and can attest to their fun and intricacy. You will be challenged but learn at the same time.
 
-    - [**TryHackMe | Cyber Security Training**](https://tryhackme.com/ "https://tryhackme.com/")[](https://tryhackme.com/)
-
+    - [**TryHackMe | Cyber Security Training**](https://tryhackme.com/)
 -   **PICOctf**: PICOctf is a great place to start where you can learn Cyber Security skills in a Jeopardy style way. This was one of the places I started my journey at when learning my Cyber Security skills.
-    - [**picoCTF - CMU Cybersecurity Competition**](https://picoctf.org "https://picoctf.org")[](https://picoctf.org)
+    - [**picoCTF - CMU Cybersecurity Competition**](https://picoctf.org)
 
 -   **OverTheWire Bandit**: Any Cyber Security person worth their salt has some skills with Linux. Using the OverTheWire Bandit, it teaches you not only navigation skills in linux. But you have to start by connecting to the server via SSH, once you have connected. You get information on how to connect to level 1 and so on. Each time you finish a Level it gives you a clue on how to connect to the next level.
-    - [**Bandit**](https://overthewire.org/wargames/bandit/ "https://overthewire.org/wargames/bandit/")[](https://overthewire.org/wargames/bandit/)
+    - [**Bandit**](https://overthewire.org/wargames/bandit/)
 
 # Advice
 
