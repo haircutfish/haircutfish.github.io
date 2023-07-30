@@ -72,7 +72,7 @@ Save (ctrl + s) and X out of the text editor window, and your back in the termin
 
 ![](https://miro.medium.com/max/630/1*ZXb9QVrWIv4H1j2dLgXlXQ.png)
 
-Time to run our rule through, snort against the pcap file. We will set it up as we did in the previous room, the command will be  `sudo snort -c local.rules -A full -l . -r mx-3.pcap`. We get the name of the pcap file from running the  `ls`  command earlier. So after typing the command in, press enter to run it.
+Time to run our rule through, snort against the pcap file. We will set it up as we did in the previous room, the command will be  `sudo snort -c local.rules -A full -l . -r ftp-png-gif.pcap`. We get the name of the pcap file from running the  `ls`  command earlier. So after typing the command in, press enter to run it.
 
 ![](https://miro.medium.com/max/630/1*ECJh-CBMG7f3IPoTaLbHqA.png)
 
@@ -138,11 +138,13 @@ Time to write a rule to detect GIF files, to do so it is going to be much like t
 
 ![](https://miro.medium.com/max/630/1*4zatcIvmUOzYU4o6qNUHVw.png)
 
+> UPDATE: I had a reader named Naftoli, told me that the there was an issue with the above rule and GIF code. This reader mentioned a website called MIME types (IANA media types), that has a more accurate Hex Signature for GIF files. Looking in the MIME sniffing portion, you will see the section on “Other methods of conveying document type”. Looking at the Magic Number bullet point will show the hex vaule for both GIF (47 49 46 38 39) and PNG (89 50 4E 47). Which could give you a better detection for GIF files. Since it is looking for GIF in hex instead of GIF plus additional characters. The rule for finding GIF using the hex value is `alert tcp any any <> any any (msg:"GIF File Detected"; content:"|47 49 46 38 39|"; sid:100003; rev:1;)`.
+
 Save (ctrl + s) and X out of the text editor window, and your back in the terminal.
 
 ![](https://miro.medium.com/max/567/0*2axg2SNjqajiRqJQ.png)
 
-Time to run our rule through, snort against the pcap file. We will set it up as we did in the previous room, the command will be  `sudo snort -c local.rules -A full -l . -r mx-3.pcap`. We get the name of the pcap file from running the  `ls`  command earlier. So after typing the command in, press enter to run it.
+Time to run our rule through, snort against the pcap file. We will set it up as we did in the previous room, the command will be  `sudo snort -c local.rules -A full -l . -r ftp-png-gif.pcap`. We get the name of the pcap file from running the  `ls`  command earlier. So after typing the command in, press enter to run it.
 
 ![](https://miro.medium.com/max/630/1*ECJh-CBMG7f3IPoTaLbHqA.png)
 
@@ -192,13 +194,17 @@ Save (ctrl + s) and X out of the text editor window, and your back in the termin
 
 ### What is the number of detected packets?
 
-Time to run our rule through, snort against the pcap file. We will set it up as we did in the previous room, the command will be  `sudo snort -c local.rules -A full -l . -r mx-3.pcap`. We get the name of the pcap file from running the  `ls`  command earlier. So after typing the command in, press enter to run it.
+Time to run our rule through, snort against the pcap file. We will set it up as we did in the previous room, the command will be  `sudo snort -c local.rules -A full -l . -r torrent.pcap`. We get the name of the pcap file from running the  `ls`  command earlier. So after typing the command in, press enter to run it.
 
 ![](https://miro.medium.com/max/630/1*wpfdTC5u1_OebjoP9ke7Tw.png)
 
 After snort is done running, we can use  `ls`  again, and see that now we have an alert and log file.
 
 ![](https://miro.medium.com/max/630/1*-fyP4RAjiiUPD2b-HsvfuQ.png)
+
+> UPDATE: The same reader, Naftoli, from before also pointed out the I dropped the ball and forgot to include the reading of the snort log file. So I am placeing the write-up portion below this update, sorry I don't have a screen shot for this. Thank you so much Naftoli!!!
+
+Let's look at the log file, to do this we can use the snort command we learned in the previous room, sudo snort -r snort.log.1671819514 -X. The name of your log file may be different, that is ok, just make sure it is named properly. Then press enter to run the command.
 
 When snort is done outputting the log file, you will see Total, if you look to the right in the Total row you will see a number. This number is the answer to the question. Type this answer into the TryHackMe answer field, then click submit.
 
