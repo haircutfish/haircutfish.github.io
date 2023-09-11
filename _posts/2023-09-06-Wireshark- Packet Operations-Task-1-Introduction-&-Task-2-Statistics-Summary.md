@@ -202,4 +202,4 @@ Once you reach the _Address_ column, you will see the IPv4 address associated wi
 
 ----------
 
-You have finished these tasks and can now move on to [Task 3 Statistics | Protocol Details, Task 4 Packet Filtering | Principles, & Task 5 Packet Filtering | Protocol Filters](https://haircutfish.com/posts/Wireshark-Packet-Operations-Task-3-Statistics-Protocol-Details-Task-4-Packet-Filtering-Principles-&-Task-5-Packet-Filtering-Protocol-Filters).
+You have finished these tasks and can now move on to [Task 3 Statistics-Protocol Details, Task 4 Packet Filtering-Principles, & Task 5 Packet Filtering-Protocol Filters](https://haircutfish.com/posts/Wireshark-Packet-Operations-Task-3-Statistics-Protocol-Details-Task-4-Packet-Filtering-Principles-&-Task-5-Packet-Filtering-Protocol-Filters).

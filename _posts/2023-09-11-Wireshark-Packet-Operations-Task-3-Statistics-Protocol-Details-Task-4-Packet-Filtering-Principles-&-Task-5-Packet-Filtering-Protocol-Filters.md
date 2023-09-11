@@ -5,7 +5,7 @@ categories: Wireshark
 tags: TryHackMe, Wireshark, SOC Level One Path
 ---
 
-_If you haven’t done tasks 1& 2 yet, here is the link to my write-up of them:_ [_Task 1 Introduction & Task 2 Statistics | Summary_](https://haircutfish.com/posts/Wireshark-Packet-Operations-Task-1-Introduction-&-Task-2-Statistics-Summary/)
+_If you haven’t done tasks 1 & 2 yet, here is the link to my write-up of them:_ [_Task 1 Introduction & Task 2 Statistics-Summary_](https://haircutfish.com/posts/Wireshark-Packet-Operations-Task-1-Introduction-&-Task-2-Statistics-Summary/)
 
 ## Getting the VM Started
 
