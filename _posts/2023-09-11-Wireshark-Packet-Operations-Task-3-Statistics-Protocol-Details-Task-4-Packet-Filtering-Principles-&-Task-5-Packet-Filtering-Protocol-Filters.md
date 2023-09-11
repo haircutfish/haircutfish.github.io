@@ -7,9 +7,6 @@ tags: TryHackMe, Wireshark, SOC Level One Path
 
 _If you haven’t done tasks 1& 2 yet, here is the link to my write-up of them:_ [_Task 1 Introduction & Task 2 Statistics | Summary_](https://haircutfish.com/posts/Wireshark-Packet-Operations-Task-1-Introduction-&-Task-2-Statistics-Summary/)
 
-
-_If you haven’t done tasks 1& 2 yet, here is the link to my write-up of them:_ [_Task 1 Introduction & Task 2 Statistics | Summary_](https://medium.com/@haircutfish/wireshark-packet-operations-task-1-introduction-task-2-statistics-summary-139bf7d786f7)
-
 ## Getting the VM Started
 
 Starting at Task 1, you will see the green  _Start Machine_  button. Click this button to get the VM Started.
