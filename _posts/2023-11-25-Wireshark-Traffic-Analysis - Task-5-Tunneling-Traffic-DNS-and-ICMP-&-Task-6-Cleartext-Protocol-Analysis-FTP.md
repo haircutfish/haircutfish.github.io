@@ -255,4 +255,4 @@ Once you reach the bottom, you can see where the attacker was trying to run a li
 
 ----------
 
-### You have finished these tasks and can now move on to Task 7 Cleartext Protocol Analysis: HTTP & Task 8 Encrypted Protocol Analysis: Decrypting HTTPS.
+### You have finished these tasks and can now move on to [Task 7 Cleartext Protocol Analysis: HTTP & Task 8 Encrypted Protocol Analysis: Decrypting HTTPS](https://haircutfish.com/posts/Wireshark-Traffic-Analysis-Task-7-Cleartext-Protocol-Analysis-HTTP-&-Task-8-Encrypted-Protocol-Analysis-Decrypting-HTTPS/).
