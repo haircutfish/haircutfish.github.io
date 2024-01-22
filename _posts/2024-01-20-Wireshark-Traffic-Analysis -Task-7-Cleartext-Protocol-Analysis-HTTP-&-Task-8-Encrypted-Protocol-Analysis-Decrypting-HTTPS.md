@@ -400,4 +400,4 @@ Once the file opens, we are greeted with some sweet ASCII art and what looks lik
 
   
 
-## You have finished these tasks and can now move on to Task 9 Bonus: Hunt Cleartext Credentials!, Task 10 Bonus: Actionable Results!, and Task 11 Conclusion.
+## You have finished these tasks and can now move on to [Task 9 Bonus: Hunt Cleartext Credentials!, Task 10 Bonus: Actionable Results!, and Task 11 Conclusion](https://haircutfish.com/posts/Wireshark-Traffic-Analysis-Task-9-Bonus-Hunt-Cleartext-Credentials-Task-10-Bonus-Actionable-Results-and-Task-11-Conclusion/).
