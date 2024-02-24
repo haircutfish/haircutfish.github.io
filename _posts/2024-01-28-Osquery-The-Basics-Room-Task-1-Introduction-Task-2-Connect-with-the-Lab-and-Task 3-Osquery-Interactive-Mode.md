@@ -241,4 +241,4 @@ Using the command `.help` will display the help menu. Look for `.mode`, once you
 
 ----------
 
-## You have finished these tasks and can now move on to Task 4 Schema Documentation, Task 5 Creating SQL queries, and Task 6 Challenge and Conclusion.
+## You have finished these tasks and can now move on to [Task 4 Schema Documentation, Task 5 Creating SQL queries, and Task 6 Challenge and Conclusion.](https://haircutfish.com/posts/Osquery-The-Basics-Room-Task-4-Schema-Documentation-Task-5-Creating-SQL-queries-and-Task-6-Challenge-and-Conclusion/)
