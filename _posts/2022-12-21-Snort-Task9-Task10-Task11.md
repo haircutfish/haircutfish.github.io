@@ -279,6 +279,8 @@ Like after running the previous rule through snort, the answer is going to be fo
 
 **Answer: 10**
 
+*Edit: I had someone inform me that the answer to this question is different at this point. After running through the same process above they got 7. So it could be the case that something changed and the new answer is 7. Thank you, for letting me know and keeping these blogs accurate.*
+
 ### Case Example — An analyst modified an existing rule successfully. Which rule option must the analyst change after the implementation?
 
 Since you can find the answer above I won’t be sharing it here, but follow along to help discover it if you need help. Scroll up to the General Rule Options, at the bottom of this table is where you can find the answer. Once you find it, type the answer into the TryHackMe Answer field, then click submit.
