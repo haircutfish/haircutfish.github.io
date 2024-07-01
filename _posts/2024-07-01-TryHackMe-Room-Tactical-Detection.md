@@ -5,9 +5,6 @@ categories: Active Defense
 tags: TryHackMe, Tactical Detection, SOC Level Two Path
 ---
 
-
-# TryHackMe Room — Tactical Detection
-
 This is a premium room on TryHackMe. It was created by [TryHackMe](https://tryhackme.com/p/tryhackme) and [Mokmokmok](https://tryhackme.com/p/Mokmokmok). Here it the link to said room, [TryHackMe Room — Tactical Detection](https://tryhackme.com/r/room/tacticaldetection)
 
 Establish a baseline knowledge of tactical detection, leveraging efficient techniques to bolster your security posture.
