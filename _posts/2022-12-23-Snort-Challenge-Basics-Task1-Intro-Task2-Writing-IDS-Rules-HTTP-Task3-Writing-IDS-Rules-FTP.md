@@ -231,7 +231,7 @@ When snort is done outputting the log file, you will see Total, if you look to t
 
 ![](https://miro.medium.com/max/521/1*7Ts7OaurGKgy0tJFeCr9ew.png)
 
-**Answer: 614**
+**Answer: 307**
 
 ### Investigate the log file.
 
