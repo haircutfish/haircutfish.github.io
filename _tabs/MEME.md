@@ -18,3 +18,4 @@ order: 4
 ![](/assets/images/bearded-john.png)
 ![](/assets/images/Best-House-Boy-Gerry.png)
 ![](/assets/images/BHISTaunters.png)
+![](/assets/images/MTG-Auger.png)
