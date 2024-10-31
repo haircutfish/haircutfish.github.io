@@ -10,7 +10,6 @@ This is a subscribers only room on TryHackMe. It was created by [TryHackMe](http
 
 Can you chase a simulated adversary up the Pyramid of Pain until they finally back down?
 
-  
 
 ![](https://cdn-images-1.medium.com/max/720/0*MVlunZCB-pUZ4tx4.png)
 
