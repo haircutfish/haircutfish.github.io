@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: "fa fa-picture-o"
+icon: fas fa-info-circle
 order: 4
 ---
 ### Here are different MEMEs I have made and shared amoungst The Daily Cyber Threat Brief and my Socials.  Enjoy!! 
