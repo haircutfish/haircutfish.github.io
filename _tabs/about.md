@@ -5,7 +5,6 @@ order: 5
 ---
 
 
-![Dan R/Haircutfish](/assets/images/WWHFdanceParty.png "Dan R/Haircutfish")
 <img src="/assets/images/WWHFdanceParty.png" width="372" height="404">
 
 Hiya everyone, I'm Dan Rearden aka HaircutFish. My journey into the world of IT started unexpectedly at the start of 2020 with a knee injury.  Which left me in a career quandary, as I wasn’t able to return to my previous employment.  So I found myself with some unexpected downtime and decided to plunge headfirst into studying IT. Building my first PC and installing Windows opened up a whole new world, especially when I discovered the magic of VMs and started exploring Linux. Honestly, the more I learned, the more captivated I became. It felt like stepping onto a path that kept branching off into equally interesting directions. My ADHD absolutely thrives on that kind of exploration!
