@@ -6,10 +6,17 @@ order: 5
 
 
 ![Dan R/Haircutfish](/assets/images/WWHFdanceParty.png "Dan R/Haircutfish")
+<img src="/assets/images/WWHFdanceParty.png" width="372" height="404">
 
-I got into IT because of an injury. I knew after I injured my knee I couldn’t go back to where I was working. So during my time off I started to study IT and Python coding (which I need to get back too). I build my first PC and installed Windows on it, I then discovered VMs and so I started playing around with linux. The more I was learning the more fascinating I found it. I also found it was like walking down a path, the path starts in IT, but then forks off into many other paths. The path I found myself going down then was at a small computer and mobile repair shop, where I got to take apart many a PC and laptop along with many different types of mobile devices. As I was going down this path I came to another fork, do I continue down this route to try and improve my knowledge of repair, or go down another path. The other path that caught my eye was hacking, so I started down that path and once again I found it all fascinating. I enjoy puzzles and it seems like everything I do and learn was some type of puzzle. So fast forward to now. I continued down that path but came to another fork, where did I want to go Pentest, Blue team, etc. I decieded to go blue team, which has now lead my to my current postition at ProCircular. I hope this has given you a glimpse into my head, if you every wanna chat hit me up. You can check out my [LinkTree](https://linktr.ee/haircutfish), it has all my social on there. Thank you so much.
+Hiya everyone, I'm Dan Rearden aka HaircutFish. My journey into the world of IT started unexpectedly at the start of 2020 with a knee injury.  Which left me in a career quandary, as I wasn’t able to return to my previous employment.  So I found myself with some unexpected downtime and decided to plunge headfirst into studying IT. Building my first PC and installing Windows opened up a whole new world, especially when I discovered the magic of VMs and started exploring Linux. Honestly, the more I learned, the more captivated I became. It felt like stepping onto a path that kept branching off into equally interesting directions. My ADHD absolutely thrives on that kind of exploration!
+
+One of those branches led me to a small computer and mobile repair shop, where I got hands-on experience tearing down and fixing all sorts of tech. Eventually, another fork in the road appeared: deepen my repair skills or explore something new? Hacking caught my eye, and I was instantly hooked. For me, it's all about the thrill of solving puzzles, and cybersecurity is just one giant, intricate puzzle.
+Fast forward to today, and that hacking path presented me with another exciting choice: Red Team or Blue Team?  Blue Team resonated more with who I am, so I chose Blue Team.  All that dedicated learning, especially in the realm of Blue Team tactics, brought me to my current position at ProCircular.  Where I triage tickets daily,  as I work towards becoming a Detection Engineer.
+
 
 ## Socials
+[LinkTree](https://linktr.ee/haircutfish)
+
 [Twitter](https://twitter.com/Haircutfish85)
 
 [LinkedIn](https://www.linkedin.com/in/danrearden/)
