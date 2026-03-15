@@ -71,3 +71,26 @@ level:
 - [List of Available Sigma Log Sources](https://sigmahq.io/docs/basics/log-sources.html#available-logsources)
 - [sigconverter.io](https://sigconverter.io/)
 
+<details>
+	<summary>Flaming Donkey File Tampering</summary>
+```
+title: Flaming Donkey File Tampering
+id: ffc1869f-40c8-4703-99ce-8769ef816510
+description: Detects the command line execution used by Flaming Donkey to create a proof-of-compromise file.  
+author: HaircutFish
+date: 2026-03-15
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection_payload:
+        Image|endswith: '\cmd.exe'
+        CommandLine|contains|all:
+            - '/c'
+            - 'echo'
+            - 'flaming_donkey'
+            - 'pwned.txt'
+    condition: selection_payload
+level: High
+```
+<details>
