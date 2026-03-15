@@ -78,7 +78,7 @@ level:
 
 <details>
 	<summary>Testing 2</summary>
-```yml
+<code>
 title: Flaming Donkey File Tampering
 id: ffc1869f-40c8-4703-99ce-8769ef816510
 description: Detects the command line execution used by Flaming Donkey to create a proof-of-compromise file.  
@@ -97,5 +97,5 @@ detection:
             - 'pwned.txt'
     condition: selection_payload
 level: High
-```
+</code>
 </details>
