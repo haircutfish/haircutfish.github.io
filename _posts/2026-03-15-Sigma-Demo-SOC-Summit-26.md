@@ -73,24 +73,5 @@ level:
 
 <details>
 	<summary>Flaming Donkey File Tampering</summary>
-```
-title: Flaming Donkey File Tampering
-id: ffc1869f-40c8-4703-99ce-8769ef816510
-description: Detects the command line execution used by Flaming Donkey to create a proof-of-compromise file.  
-author: HaircutFish
-date: 2026-03-15
-logsource:
-    category: process_creation
-    product: windows
-detection:
-    selection_payload:
-        Image|endswith: '\cmd.exe'
-        CommandLine|contains|all:
-            - '/c'
-            - 'echo'
-            - 'flaming_donkey'
-            - 'pwned.txt'
-    condition: selection_payload
-level: High
-```
+<pre>$ title: Flaming Donkey File Tampering<br>id: ffc1869f-40c8-4703-99ce-8769ef816510<br>description: Detects the command line execution used by Flaming Donkey to create a proof-of-compromise file.<br>author: HaircutFish<br>date: 2026-03-15<br>logsource:<br>    category: process_creation<br>    product: windows<br>detection:<br>    selection_payload:<br>        Image|endswith: '\cmd.exe'<br>        CommandLine|contains|all:<br>            - '/c'<br>            - 'echo'<br>            - 'flaming_donkey'<br>            - 'pwned.txt'<br>    condition: selection_payload<br>level: High</pre>
 <details>
