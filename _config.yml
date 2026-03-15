@@ -21,10 +21,10 @@ timezone:
 
 title: Haircutfish                         # the main title
 
-tagline: SOC Analyst Tier II | MEME creator | Security Article Writer # it will display as the sub-title
+tagline: SOC Analyst Tier II | MEME creator | Cyber Security Article Writer # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  TryHackMe Write-Up | Sigma Rules | CyberSecurity | SOC Analyst
+  TryHackMe Write-Up | Sigma Rules | Cyber Security | SOC Analyst
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://haircutfish.github.io'
